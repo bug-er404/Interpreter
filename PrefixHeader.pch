@@ -1,0 +1,23 @@
+//
+//  PrefixHeader.pch
+//  DuckInterp
+//
+//  Created by Salil D. Maharjan on 3/13/19.
+//  Copyright © 2019 Salil D. Maharjan. All rights reserved.
+//
+
+#pragma once
+
+#include <stdio.h>
+
+// TODO: reference additional headers your program requires here
+#include <sstream>
+#include <string>
+#include <iostream>
+#include <map>
+#include <unordered_map>
+#include <fstream>
+#include <assert.h>
+#include <vector>
+
+using namespace std;
